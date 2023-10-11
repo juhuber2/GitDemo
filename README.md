@@ -9,3 +9,7 @@ Use **Github** to create a new file.
 Clone the repo.
 More content to follow.
 even more content.
+
+Hello People!
+How are you? 
+VERY GOOD!
